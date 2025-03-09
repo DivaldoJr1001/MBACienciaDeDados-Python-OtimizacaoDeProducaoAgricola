@@ -16,23 +16,18 @@ As bibliotecas necessárias para rodar este notebook incluem:
 
 - PuLP
 
-Instale as dependências com o seguinte comando:
-
-pip install \-r requirements.txt
-
 ## Como Executar
 
 1. Clone este repositório:
 
    git clone https://github.com/DivaldoJr1001/MBACienciaDeDados-Python-OtimizacaoDeProducaoAgricola.git
-
 2. Navegue até o diretório:
 
    cd MBACienciaDeDados-Python-OtimizacaoDeProducaoAgricola
-
 3. Abra o Jupyter Notebook:
 
    jupyter notebook Otimizacao\_de\_Producao\_Agricola.ipynb
+4. Execute o código no software escolhido.
 
 ## Licença
 
